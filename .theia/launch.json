@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "your-class-GMITNathan_98cb5b8b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Person",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "your-class-GMITNathan_98cb5b8b"
+        }
+    ]
+}
